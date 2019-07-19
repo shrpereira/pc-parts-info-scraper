@@ -1,0 +1,578 @@
+[
+  {
+    "name": "AMD"
+  },
+  {
+    "name": "Intel"
+  },
+  {
+    "name": "Cooler Master"
+  },
+  {
+    "name": "Corsair"
+  },
+  {
+    "name": "NZXT"
+  },
+  {
+    "name": "Asus"
+  },
+  {
+    "name": "Noctua"
+  },
+  {
+    "name": "be quiet!"
+  },
+  {
+    "name": "CRYORIG"
+  },
+  {
+    "name": "Thermaltake"
+  },
+  {
+    "name": "ARCTIC"
+  },
+  {
+    "name": "Deepcool"
+  },
+  {
+    "name": "EVGA"
+  },
+  {
+    "name": "Fractal Design"
+  },
+  {
+    "name": "Zalman"
+  },
+  {
+    "name": "Rosewill"
+  },
+  {
+    "name": "Scythe"
+  },
+  {
+    "name": "Enermax"
+  },
+  {
+    "name": "MSI"
+  },
+  {
+    "name": "Gigabyte"
+  },
+  {
+    "name": "Alphacool"
+  },
+  {
+    "name": "Thermalright"
+  },
+  {
+    "name": "RAIJINTEK"
+  },
+  {
+    "name": "Gelid Solutions"
+  },
+  {
+    "name": "Phanteks"
+  },
+  {
+    "name": "Alpenföhn"
+  },
+  {
+    "name": "FSP Group"
+  },
+  {
+    "name": "ID-COOLING"
+  },
+  {
+    "name": "Silverstone"
+  },
+  {
+    "name": "Phononic"
+  },
+  {
+    "name": "SilentiumPC"
+  },
+  {
+    "name": "LEPA"
+  },
+  {
+    "name": "Logisys"
+  },
+  {
+    "name": "SilenX"
+  },
+  {
+    "name": "Prolimatech"
+  },
+  {
+    "name": "NoFan"
+  },
+  {
+    "name": "Masscool"
+  },
+  {
+    "name": "Antec"
+  },
+  {
+    "name": "Reeven"
+  },
+  {
+    "name": "Swiftech"
+  },
+  {
+    "name": "Akasa"
+  },
+  {
+    "name": "Titan"
+  },
+  {
+    "name": "Dynatron"
+  },
+  {
+    "name": "Evercool"
+  },
+  {
+    "name": "RIOTORO"
+  },
+  {
+    "name": "ZEROtherm"
+  },
+  {
+    "name": "Cooltek"
+  },
+  {
+    "name": "StarTech"
+  },
+  {
+    "name": "Raidmax"
+  },
+  {
+    "name": "OcUK"
+  },
+  {
+    "name": "Xigmatek"
+  },
+  {
+    "name": "ROCCAT"
+  },
+  {
+    "name": "TUNIQ"
+  },
+  {
+    "name": "Nexus"
+  },
+  {
+    "name": "X2"
+  },
+  {
+    "name": "Xion"
+  },
+  {
+    "name": "Vantec"
+  },
+  {
+    "name": "Zero Infinity"
+  },
+  {
+    "name": "Sunbeam"
+  },
+  {
+    "name": "Enzotech"
+  },
+  {
+    "name": "Syba"
+  },
+  {
+    "name": "GAMDIAS"
+  },
+  {
+    "name": "Transcend"
+  },
+  {
+    "name": "Seagate"
+  },
+  {
+    "name": "Western Digital"
+  },
+  {
+    "name": "Hitachi"
+  },
+  {
+    "name": "ADATA"
+  },
+  {
+    "name": "Mushkin"
+  },
+  {
+    "name": "Kingston"
+  },
+  {
+    "name": "Toshiba"
+  },
+  {
+    "name": "G.Skill"
+  },
+  {
+    "name": "Samsung"
+  },
+  {
+    "name": "OCZ"
+  },
+  {
+    "name": "Patriot"
+  },
+  {
+    "name": "KFA2"
+  },
+  {
+    "name": "Team"
+  },
+  {
+    "name": "Crucial"
+  },
+  {
+    "name": "Wintec"
+  },
+  {
+    "name": "SanDisk"
+  },
+  {
+    "name": "Edge Tech"
+  },
+  {
+    "name": "MyDigitalSSD"
+  },
+  {
+    "name": "Plextor"
+  },
+  {
+    "name": "Hyundai Technology"
+  },
+  {
+    "name": "Lenovo"
+  },
+  {
+    "name": "Axiom"
+  },
+  {
+    "name": "Silicon Power"
+  },
+  {
+    "name": "PNY"
+  },
+  {
+    "name": "Avexir"
+  },
+  {
+    "name": "Zotac"
+  },
+  {
+    "name": "VisionTek"
+  },
+  {
+    "name": "Inland"
+  },
+  {
+    "name": "IBM"
+  },
+  {
+    "name": "TCSunBow"
+  },
+  {
+    "name": "HP"
+  },
+  {
+    "name": "OWC"
+  },
+  {
+    "name": "Eluktro"
+  },
+  {
+    "name": "Dell"
+  },
+  {
+    "name": "Micron"
+  },
+  {
+    "name": "Drevo"
+  },
+  {
+    "name": "Biwin"
+  },
+  {
+    "name": "Addlink"
+  },
+  {
+    "name": "Apotop"
+  },
+  {
+    "name": "XPG"
+  },
+  {
+    "name": "Intenso"
+  },
+  {
+    "name": "Verbatim"
+  },
+  {
+    "name": "SK hynix"
+  },
+  {
+    "name": "KingDian"
+  },
+  {
+    "name": "Eluktronics"
+  },
+  {
+    "name": "V7"
+  },
+  {
+    "name": "Maxtor"
+  },
+  {
+    "name": "PLDS"
+  },
+  {
+    "name": "Supermicro"
+  },
+  {
+    "name": "Sapphire"
+  },
+  {
+    "name": "XFX"
+  },
+  {
+    "name": "ATI"
+  },
+  {
+    "name": "Galaxy"
+  },
+  {
+    "name": "GALAX"
+  },
+  {
+    "name": "HIS"
+  },
+  {
+    "name": "Klevv"
+  },
+  {
+    "name": "Apacer"
+  },
+  {
+    "name": "GeIL"
+  },
+  {
+    "name": "Pareema"
+  },
+  {
+    "name": "Panram"
+  },
+  {
+    "name": "Lexar"
+  },
+  {
+    "name": "Gloway"
+  },
+  {
+    "name": "Compustocx"
+  },
+  {
+    "name": "Apevia"
+  },
+  {
+    "name": "Inwin"
+  },
+  {
+    "name": "nMEDIAPC"
+  },
+  {
+    "name": "Lian-Li"
+  },
+  {
+    "name": "Cougar"
+  },
+  {
+    "name": "VIVO"
+  },
+  {
+    "name": "DIYPC"
+  },
+  {
+    "name": "Element Gaming"
+  },
+  {
+    "name": "Topower"
+  },
+  {
+    "name": "Aerocool"
+  },
+  {
+    "name": "Jonsbo"
+  },
+  {
+    "name": "Apex"
+  },
+  {
+    "name": "Sentey"
+  },
+  {
+    "name": "Ultra"
+  },
+  {
+    "name": "Azza"
+  },
+  {
+    "name": "Sigma"
+  },
+  {
+    "name": "Spartex"
+  },
+  {
+    "name": "BitFenix"
+  },
+  {
+    "name": "SHARKOON"
+  },
+  {
+    "name": "Streacom"
+  },
+  {
+    "name": "NOX"
+  },
+  {
+    "name": "CFI"
+  },
+  {
+    "name": "Zodiac"
+  },
+  {
+    "name": "Athena Power"
+  },
+  {
+    "name": "Athenatech"
+  },
+  {
+    "name": "Foxconn"
+  },
+  {
+    "name": "HEC"
+  },
+  {
+    "name": "DAN Cases"
+  },
+  {
+    "name": "Metallic Gear"
+  },
+  {
+    "name": "SAMA"
+  },
+  {
+    "name": "ABS"
+  },
+  {
+    "name": "Diablotek"
+  },
+  {
+    "name": "CiT"
+  },
+  {
+    "name": "GamerChief"
+  },
+  {
+    "name": "KOLINK"
+  },
+  {
+    "name": "XClio"
+  },
+  {
+    "name": "mean:it"
+  },
+  {
+    "name": "Broadway Com Corp"
+  },
+  {
+    "name": "Dynapower"
+  },
+  {
+    "name": "CHENBRO"
+  },
+  {
+    "name": "Raygo"
+  },
+  {
+    "name": "Linkworld"
+  },
+  {
+    "name": "Parvum Systems"
+  },
+  {
+    "name": "Cubitek"
+  },
+  {
+    "name": "Nanoxia"
+  },
+  {
+    "name": "Lazer3D"
+  },
+  {
+    "name": "Sahara"
+  },
+  {
+    "name": "Powertek"
+  },
+  {
+    "name": "Morex"
+  },
+  {
+    "name": "AvP"
+  },
+  {
+    "name": "darkFlash"
+  },
+  {
+    "name": "iBuypower"
+  },
+  {
+    "name": "Game Max"
+  },
+  {
+    "name": "Anidees"
+  },
+  {
+    "name": "Segotep"
+  },
+  {
+    "name": "PrimoChill"
+  },
+  {
+    "name": "Tecware"
+  },
+  {
+    "name": "LDLC"
+  },
+  {
+    "name": "Wesena"
+  },
+  {
+    "name": "LC-Power"
+  },
+  {
+    "name": "iStarUSA"
+  },
+  {
+    "name": "Mars Gaming"
+  },
+  {
+    "name": "Chieftec"
+  },
+  {
+    "name": "HG Computers"
+  },
+  {
+    "name": "MS-Tech"
+  },
+  {
+    "name": "JMAX"
+  }
+]
