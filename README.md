@@ -1,1 +1,1 @@
-# rate-my-build-scraper
+# PC Parts Info Scraper
